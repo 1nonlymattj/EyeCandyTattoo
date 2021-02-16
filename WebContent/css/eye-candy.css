@@ -131,6 +131,16 @@ p {
 	line-height: 1.75
 }
 
+.powered {
+   font-size: 8px;
+   color:#d8d8d8;
+}
+
+.powerImage {
+   max-width: 14px;
+   max-height: 14px;
+}
+
 .text-faded {
 	color: #5d5d5d
 }
